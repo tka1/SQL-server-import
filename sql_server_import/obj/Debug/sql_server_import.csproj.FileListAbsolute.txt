@@ -1,0 +1,12 @@
+e:\tomi\documents\visual studio 2015\Projects\sql_server_import\sql_server_import\bin\Debug\sql_server_import.exe.config
+e:\tomi\documents\visual studio 2015\Projects\sql_server_import\sql_server_import\bin\Debug\sql_server_import.exe
+e:\tomi\documents\visual studio 2015\Projects\sql_server_import\sql_server_import\bin\Debug\sql_server_import.pdb
+e:\tomi\documents\visual studio 2015\Projects\sql_server_import\sql_server_import\obj\Debug\sql_server_import.csprojResolveAssemblyReference.cache
+e:\tomi\documents\visual studio 2015\Projects\sql_server_import\sql_server_import\obj\Debug\sql_server_import.Form1.resources
+e:\tomi\documents\visual studio 2015\Projects\sql_server_import\sql_server_import\obj\Debug\sql_server_import.Properties.Resources.resources
+e:\tomi\documents\visual studio 2015\Projects\sql_server_import\sql_server_import\obj\Debug\sql_server_import.csproj.GenerateResource.Cache
+e:\tomi\documents\visual studio 2015\Projects\sql_server_import\sql_server_import\obj\Debug\sql_server_import.exe
+e:\tomi\documents\visual studio 2015\Projects\sql_server_import\sql_server_import\obj\Debug\sql_server_import.pdb
+E:\GitHub\ClusterETL\sql_server_import\sql_server_import\bin\Debug\sql_server_import.exe.config
+E:\GitHub\ClusterETL\sql_server_import\sql_server_import\obj\Debug\sql_server_import.exe
+E:\GitHub\ClusterETL\sql_server_import\sql_server_import\obj\Debug\sql_server_import.pdb
